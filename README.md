@@ -1,1 +1,1 @@
-a python package for use iau_sofa routines (C++ version) in python.
+a python package for use SOFA servise  (ANSI C version) in python.
